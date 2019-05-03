@@ -69,7 +69,5 @@ printf "Setup complete!\n\n"
 
 printf "***********************    IMPORTANT INFO  *********************\n\n"
 
-printf "Swagger URL: https://$apiappname.azurewebsites.net/swagger\n"
-
-printf "Example URL: https://$apiappname.azurewebsites.net/swagger/v1/swagger.json\n\n"
+printf "URL: https://$apiappname.azurewebsites.net\n\n"
 
